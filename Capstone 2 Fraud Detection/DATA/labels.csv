@@ -1,0 +1,355 @@
+NAME,TYPE,LENGTH,LABEL
+CAMPUS,Character,9,Campus Number
+DISTRICT,Character,9,District Number
+CB0C417D,Numeric,8,Campus 2017 4-Year Longitudinal: African American Denominator
+CA0C417D,Numeric,8,Campus 2017 4-Year Longitudinal: All Students Denominator
+CI0C417D,Numeric,8,Campus 2017 4-Year Longitudinal: American Indian Denominator
+C30C417D,Numeric,8,Campus 2017 4-Year Longitudinal: Asian Denominator
+CE0C417D,Numeric,8,Campus 2017 4-Year Longitudinal: Econ Disadv Denominator
+CL0C417D,Numeric,8,Campus 2017 4-Year Longitudinal: Ever HS LEP Denominator
+CH0C417D,Numeric,8,Campus 2017 4-Year Longitudinal: Hispanic Denominator
+CLC0C417D,Numeric,8,Campus 2017 4-Year Longitudinal: LEP Denominator
+C40C417D,Numeric,8,Campus 2017 4-Year Longitudinal: Pacific Islander Denominator
+CS0C417D,Numeric,8,Campus 2017 4-Year Longitudinal: Special Ed Denominator
+C20C417D,Numeric,8,Campus 2017 4-Year Longitudinal: Two or More Races Denominator
+CW0C417D,Numeric,8,Campus 2017 4-Year Longitudinal: White Denominator
+CBGC417N,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for African American Numerator
+CBGC417R,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for African American Rate
+CAGC417N,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for All Students Numerator
+CAGC417R,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for All Students Rate
+CIGC417N,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for American Indian Numerator
+CIGC417R,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for American Indian Rate
+C3GC417N,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for Asian Numerator
+C3GC417R,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for Asian Rate
+CEGC417N,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for Econ Disadv Numerator
+CEGC417R,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for Econ Disadv Rate
+CLGC417N,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for Ever HS LEP Numerator
+CLGC417R,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for Ever HS LEP Rate
+CHGC417N,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for Hispanic Numerator
+CHGC417R,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for Hispanic Rate
+CLCGC417N,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for LEP Numerator
+CLCGC417R,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for LEP Rate
+C4GC417N,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for Pacific Islander Numerator
+C4GC417R,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for Pacific Islander Rate
+CSGC417N,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for Special Ed Numerator
+CSGC417R,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for Special Ed Rate
+C2GC417N,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for Two or More Races Numerator
+C2GC417R,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for Two or More Races Rate
+CWGC417N,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for White Numerator
+CWGC417R,Numeric,8,Campus 2017 4-Year Longitudinal: [Graduates] for White Rate
+CB0B317D,Numeric,8,Campus 2017 CCMR Domain 3: Annual Graduates + 12th Grade Non-Graduates - African American Denominator
+CA0B317D,Numeric,8,Campus 2017 CCMR Domain 3: Annual Graduates + 12th Grade Non-Graduates - All Students Denominator
+CI0B317D,Numeric,8,Campus 2017 CCMR Domain 3: Annual Graduates + 12th Grade Non-Graduates - American Indian Denominator
+C30B317D,Numeric,8,Campus 2017 CCMR Domain 3: Annual Graduates + 12th Grade Non-Graduates - Asian Denominator
+CC0B317D,Numeric,8,Campus 2017 CCMR Domain 3: Annual Graduates + 12th Grade Non-Graduates - Continuous Enrollment Denominator
+C00B317D,Numeric,8,Campus 2017 CCMR Domain 3: Annual Graduates + 12th Grade Non-Graduates - Current and Monitored LEP Denominator
+CE0B317D,Numeric,8,Campus 2017 CCMR Domain 3: Annual Graduates + 12th Grade Non-Graduates - Econ Disadv Denominator
+CP0B317D,Numeric,8,Campus 2017 CCMR Domain 3: Annual Graduates + 12th Grade Non-Graduates - Former Special Ed Denominator
+CH0B317D,Numeric,8,Campus 2017 CCMR Domain 3: Annual Graduates + 12th Grade Non-Graduates - Hispanic Denominator
+CO0B317D,Numeric,8,Campus 2017 CCMR Domain 3: Annual Graduates + 12th Grade Non-Graduates - Non Continuous Enrollment Denominator
+C40B317D,Numeric,8,Campus 2017 CCMR Domain 3: Annual Graduates + 12th Grade Non-Graduates - Pacific Islander Denominator
+CS0B317D,Numeric,8,Campus 2017 CCMR Domain 3: Annual Graduates + 12th Grade Non-Graduates - Special Ed Denominator
+C20B317D,Numeric,8,Campus 2017 CCMR Domain 3: Annual Graduates + 12th Grade Non-Graduates - Two or More Races Denominator
+CW0B317D,Numeric,8,Campus 2017 CCMR Domain 3: Annual Graduates + 12th Grade Non-Graduates - White Denominator
+CB0B317N,Numeric,8,Campus 2017 CCMR Domain 3: Number of Students meeting CCMR - African American Numerator
+CA0B317N,Numeric,8,Campus 2017 CCMR Domain 3: Number of Students meeting CCMR - All Students Numerator
+CI0B317N,Numeric,8,Campus 2017 CCMR Domain 3: Number of Students meeting CCMR - American Indian Numerator
+C30B317N,Numeric,8,Campus 2017 CCMR Domain 3: Number of Students meeting CCMR - Asian Numerator
+CC0B317N,Numeric,8,Campus 2017 CCMR Domain 3: Number of Students meeting CCMR - Continuous Enrollment Numerator
+C00B317N,Numeric,8,Campus 2017 CCMR Domain 3: Number of Students meeting CCMR - Current and Monitored LEP Numerator
+CE0B317N,Numeric,8,Campus 2017 CCMR Domain 3: Number of Students meeting CCMR - Econ Disadv Numerator
+CP0B317N,Numeric,8,Campus 2017 CCMR Domain 3: Number of Students meeting CCMR - Former Special Ed Numerator
+CH0B317N,Numeric,8,Campus 2017 CCMR Domain 3: Number of Students meeting CCMR - Hispanic Numerator
+CO0B317N,Numeric,8,Campus 2017 CCMR Domain 3: Number of Students meeting CCMR - Non Continuous Enrollment Numerator
+C40B317N,Numeric,8,Campus 2017 CCMR Domain 3: Number of Students meeting CCMR - Pacific Islander Numerator
+CS0B317N,Numeric,8,Campus 2017 CCMR Domain 3: Number of Students meeting CCMR - Special Ed Numerator
+C20B317N,Numeric,8,Campus 2017 CCMR Domain 3: Number of Students meeting CCMR - Two or More Races Numerator
+CW0B317N,Numeric,8,Campus 2017 CCMR Domain 3: Number of Students meeting CCMR - White Numerator
+CB0B317R,Numeric,8,Campus 2017 CCMR Domain 3: Rate of students meeting CCMR - African American Rate
+CA0B317R,Numeric,8,Campus 2017 CCMR Domain 3: Rate of students meeting CCMR - All Students Rate
+CI0B317R,Numeric,8,Campus 2017 CCMR Domain 3: Rate of students meeting CCMR - American Indian Rate
+C30B317R,Numeric,8,Campus 2017 CCMR Domain 3: Rate of students meeting CCMR - Asian Rate
+CC0B317R,Numeric,8,Campus 2017 CCMR Domain 3: Rate of students meeting CCMR - Continuous Enrollment Rate
+C00B317R,Numeric,8,Campus 2017 CCMR Domain 3: Rate of students meeting CCMR - Current and Monitored LEP Rate
+CE0B317R,Numeric,8,Campus 2017 CCMR Domain 3: Rate of students meeting CCMR - Econ Disadv Rate
+CP0B317R,Numeric,8,Campus 2017 CCMR Domain 3: Rate of students meeting CCMR - Former Special Ed Rate
+CH0B317R,Numeric,8,Campus 2017 CCMR Domain 3: Rate of students meeting CCMR - Hispanic Rate
+CO0B317R,Numeric,8,Campus 2017 CCMR Domain 3: Rate of students meeting CCMR - Non Continuous Enrollment Rate
+C40B317R,Numeric,8,Campus 2017 CCMR Domain 3: Rate of students meeting CCMR - Pacific Islander Rate
+CS0B317R,Numeric,8,Campus 2017 CCMR Domain 3: Rate of students meeting CCMR - Special Ed Rate
+C20B317R,Numeric,8,Campus 2017 CCMR Domain 3: Rate of students meeting CCMR - Two or More Races Rate
+CW0B317R,Numeric,8,Campus 2017 CCMR Domain 3: Rate of students meeting CCMR - White Rate
+CDB00A001S18R,Numeric,8,"Campus 2018 Domain 1A: Approaches Grade Level STD, Summed Grades 3-12, African American All Tests Rate"
+CDA00A001S18R,Numeric,8,"Campus 2018 Domain 1A: Approaches Grade Level STD, Summed Grades 3-12, All Students All Tests Rate"
+CDI00A001S18R,Numeric,8,"Campus 2018 Domain 1A: Approaches Grade Level STD, Summed Grades 3-12, American Indian All Tests Rate"
+CD300A001S18R,Numeric,8,"Campus 2018 Domain 1A: Approaches Grade Level STD, Summed Grades 3-12, Asian All Tests Rate"
+CNC00A001S18R,Numeric,8,"Campus 2018 Domain 1A: Approaches Grade Level STD, Summed Grades 3-12, Continuous Enrollee All Tests Rate"
+CD000A001S18R,Numeric,8,"Campus 2018 Domain 1A: Approaches Grade Level STD, Summed Grades 3-12, Current-&-Monitored-Y1toY4-ELL All Tests Rate"
+CDE00A001S18R,Numeric,8,"Campus 2018 Domain 1A: Approaches Grade Level STD, Summed Grades 3-12, Econ Disadv All Tests Rate"
+CNS00A001S18R,Numeric,8,"Campus 2018 Domain 1A: Approaches Grade Level STD, Summed Grades 3-12, Former Special Ed All Tests Rate"
+CDH00A001S18R,Numeric,8,"Campus 2018 Domain 1A: Approaches Grade Level STD, Summed Grades 3-12, Hispanic All Tests Rate"
+CNM00A001S18R,Numeric,8,"Campus 2018 Domain 1A: Approaches Grade Level STD, Summed Grades 3-12, Mobile All Tests Rate"
+CD400A001S18R,Numeric,8,"Campus 2018 Domain 1A: Approaches Grade Level STD, Summed Grades 3-12, Pacific Islander All Tests Rate"
+CDS00A001S18R,Numeric,8,"Campus 2018 Domain 1A: Approaches Grade Level STD, Summed Grades 3-12, Special Ed All Tests Rate"
+CD200A001S18R,Numeric,8,"Campus 2018 Domain 1A: Approaches Grade Level STD, Summed Grades 3-12, Two or More Races All Tests Rate"
+CDW00A001S18R,Numeric,8,"Campus 2018 Domain 1A: Approaches Grade Level STD, Summed Grades 3-12, White All Tests Rate"
+CDB00A001318R,Numeric,8,"Campus 2018 Domain 1A: Masters Grade Level STD, Summed Grades 3-12, African American All Tests Rate"
+CDA00A001318R,Numeric,8,"Campus 2018 Domain 1A: Masters Grade Level STD, Summed Grades 3-12, All Students All Tests Rate"
+CDI00A001318R,Numeric,8,"Campus 2018 Domain 1A: Masters Grade Level STD, Summed Grades 3-12, American Indian All Tests Rate"
+CD300A001318R,Numeric,8,"Campus 2018 Domain 1A: Masters Grade Level STD, Summed Grades 3-12, Asian All Tests Rate"
+CNC00A001318R,Numeric,8,"Campus 2018 Domain 1A: Masters Grade Level STD, Summed Grades 3-12, Continuous Enrollee All Tests Rate"
+CD000A001318R,Numeric,8,"Campus 2018 Domain 1A: Masters Grade Level STD, Summed Grades 3-12, Current-&-Monitored-Y1toY4-ELL All Tests Rate"
+CDE00A001318R,Numeric,8,"Campus 2018 Domain 1A: Masters Grade Level STD, Summed Grades 3-12, Econ Disadv All Tests Rate"
+CNS00A001318R,Numeric,8,"Campus 2018 Domain 1A: Masters Grade Level STD, Summed Grades 3-12, Former Special Ed All Tests Rate"
+CDH00A001318R,Numeric,8,"Campus 2018 Domain 1A: Masters Grade Level STD, Summed Grades 3-12, Hispanic All Tests Rate"
+CNM00A001318R,Numeric,8,"Campus 2018 Domain 1A: Masters Grade Level STD, Summed Grades 3-12, Mobile All Tests Rate"
+CD400A001318R,Numeric,8,"Campus 2018 Domain 1A: Masters Grade Level STD, Summed Grades 3-12, Pacific Islander All Tests Rate"
+CDS00A001318R,Numeric,8,"Campus 2018 Domain 1A: Masters Grade Level STD, Summed Grades 3-12, Special Ed All Tests Rate"
+CD200A001318R,Numeric,8,"Campus 2018 Domain 1A: Masters Grade Level STD, Summed Grades 3-12, Two or More Races All Tests Rate"
+CDW00A001318R,Numeric,8,"Campus 2018 Domain 1A: Masters Grade Level STD, Summed Grades 3-12, White All Tests Rate"
+CDB00A001218R,Numeric,8,"Campus 2018 Domain 1A: Meets Grade Level STD, Summed Grades 3-12, African American All Tests Rate"
+CDA00A001218R,Numeric,8,"Campus 2018 Domain 1A: Meets Grade Level STD, Summed Grades 3-12, All Students All Tests Rate"
+CDI00A001218R,Numeric,8,"Campus 2018 Domain 1A: Meets Grade Level STD, Summed Grades 3-12, American Indian All Tests Rate"
+CD300A001218R,Numeric,8,"Campus 2018 Domain 1A: Meets Grade Level STD, Summed Grades 3-12, Asian All Tests Rate"
+CNC00A001218R,Numeric,8,"Campus 2018 Domain 1A: Meets Grade Level STD, Summed Grades 3-12, Continuous Enrollee All Tests Rate"
+CD000A001218R,Numeric,8,"Campus 2018 Domain 1A: Meets Grade Level STD, Summed Grades 3-12, Current-&-Monitored-Y1toY4-ELL All Tests Rate"
+CDE00A001218R,Numeric,8,"Campus 2018 Domain 1A: Meets Grade Level STD, Summed Grades 3-12, Econ Disadv All Tests Rate"
+CNS00A001218R,Numeric,8,"Campus 2018 Domain 1A: Meets Grade Level STD, Summed Grades 3-12, Former Special Ed All Tests Rate"
+CDH00A001218R,Numeric,8,"Campus 2018 Domain 1A: Meets Grade Level STD, Summed Grades 3-12, Hispanic All Tests Rate"
+CNM00A001218R,Numeric,8,"Campus 2018 Domain 1A: Meets Grade Level STD, Summed Grades 3-12, Mobile All Tests Rate"
+CD400A001218R,Numeric,8,"Campus 2018 Domain 1A: Meets Grade Level STD, Summed Grades 3-12, Pacific Islander All Tests Rate"
+CDS00A001218R,Numeric,8,"Campus 2018 Domain 1A: Meets Grade Level STD, Summed Grades 3-12, Special Ed All Tests Rate"
+CD200A001218R,Numeric,8,"Campus 2018 Domain 1A: Meets Grade Level STD, Summed Grades 3-12, Two or More Races All Tests Rate"
+CDW00A001218R,Numeric,8,"Campus 2018 Domain 1A: Meets Grade Level STD, Summed Grades 3-12, White All Tests Rate"
+CDB00A001018D,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, African American All Tests Performance Denominator"
+CDB00A001018R,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, African American Student Achievement Domain Score (STAAR only)"
+CDA00A001018D,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, All Students All Tests Performance Denominator"
+CDA00A001018R,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, All Students Student Achievement Domain Score (STAAR only)"
+CDI00A001018D,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, American Indian All Tests Performance Denominator"
+CDI00A001018R,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, American Indian Student Achievement Domain Score (STAAR only)"
+CD300A001018D,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Asian All Tests Performance Denominator"
+CD300A001018R,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Asian Student Achievement Domain Score (STAAR only)"
+CNC00A001018D,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Continuous Enrollee All Tests Performance Denominator"
+CNC00A001018R,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Continuous Enrollee Student Achievement Domain Score (STAAR only)"
+CD000A001018D,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Current-&-Monitored-Y1toY4-ELL All Tests Performance Denominator"
+CD000A001018R,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Current-&-Monitored-Y1toY4-ELL Student Achievement Domain Score (STAAR only)"
+CDE00A001018D,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Econ Disadv All Tests Performance Denominator"
+CDE00A001018R,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Econ Disadv Student Achievement Domain Score (STAAR only)"
+CNS00A001018D,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Former Special Ed All Tests Performance Denominator"
+CNS00A001018R,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Former Special Ed Student Achievement Domain Score (STAAR only)"
+CDH00A001018D,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Hispanic All Tests Performance Denominator"
+CDH00A001018R,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Hispanic Student Achievement Domain Score (STAAR only)"
+CNM00A001018D,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Mobile All Tests Performance Denominator"
+CNM00A001018R,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Mobile Student Achievement Domain Score (STAAR only)"
+CD400A001018D,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Pacific Islander All Tests Performance Denominator"
+CD400A001018R,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Pacific Islander Student Achievement Domain Score (STAAR only)"
+CDS00A001018D,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Special Ed All Tests Performance Denominator"
+CDS00A001018R,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Special Ed Student Achievement Domain Score (STAAR only)"
+CD200A001018D,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Two or More Races All Tests Performance Denominator"
+CD200A001018R,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, Two or More Races Student Achievement Domain Score (STAAR only)"
+CDW00A001018D,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, White All Tests Performance Denominator"
+CDW00A001018R,Numeric,8,"Campus 2018 Domain 1A: Summed Grades 3-12, White Student Achievement Domain Score (STAAR only)"
+CDB00AM0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Mathematics for African American
+CDA00AM0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Mathematics for All Students
+CDI00AM0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Mathematics for American Indian
+CD300AM0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Mathematics for Asian
+CNC00AM0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Mathematics for Continuously Enrolled
+CD000AM0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Mathematics for Current+Monitored ELL
+CDE00AM0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Mathematics for Econ Disadv
+CNS00AM0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Mathematics for Former Special Ed
+CDH00AM0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Mathematics for Hispanic
+CNM00AM0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Mathematics for Mobile (Non-Continuously Enrolled)
+CD400AM0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Mathematics for Pacific Islander
+CDS00AM0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Mathematics for Special Ed
+CD200AM0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Mathematics for Two or More Races
+CDW00AM0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Mathematics for White
+CDB00AR0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Reading for African American
+CDA00AR0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Reading for All Students
+CDI00AR0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Reading for American Indian
+CD300AR0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Reading for Asian
+CNC00AR0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Reading for Continuously Enrolled
+CD000AR0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Reading for Current+Monitored ELL
+CDE00AR0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Reading for Econ Disadv
+CNS00AR0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Reading for Former Special Ed
+CDH00AR0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Reading for Hispanic
+CNM00AR0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Reading for Mobile (Non-Continuously Enrolled)
+CD400AR0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Reading for Pacific Islander
+CDS00AR0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Reading for Special Ed
+CD200AR0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Reading for Two or More Races
+CDW00AR0200018N,Numeric,8,Campus 2018 Domain 2A: Growth Points of Reading for White
+CDB00AM0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Mathematics Tests for African American
+CDA00AM0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Mathematics Tests for All Students
+CDI00AM0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Mathematics Tests for American Indian
+CD300AM0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Mathematics Tests for Asian
+CNC00AM0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Mathematics Tests for Continuously Enrolled
+CD000AM0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Mathematics Tests for Current+Monitored ELL
+CDE00AM0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Mathematics Tests for Econ Disadv
+CNS00AM0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Mathematics Tests for Former Special Ed
+CDH00AM0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Mathematics Tests for Hispanic
+CNM00AM0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Mathematics Tests for Mobile (Non-Continuously Enrolled)
+CD400AM0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Mathematics Tests for Pacific Islander
+CDS00AM0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Mathematics Tests for Special Ed
+CD200AM0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Mathematics Tests for Two or More Races
+CDW00AM0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Mathematics Tests for White
+CDB00AR0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Reading Tests for African American
+CDA00AR0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Reading Tests for All Students
+CDI00AR0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Reading Tests for American Indian
+CD300AR0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Reading Tests for Asian
+CNC00AR0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Reading Tests for Continuously Enrolled
+CD000AR0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Reading Tests for Current+Monitored ELL
+CDE00AR0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Reading Tests for Econ Disadv
+CNS00AR0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Reading Tests for Former Special Ed
+CDH00AR0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Reading Tests for Hispanic
+CNM00AR0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Reading Tests for Mobile (Non-Continuously Enrolled)
+CD400AR0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Reading Tests for Pacific Islander
+CDS00AR0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Reading Tests for Special Ed
+CD200AR0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Reading Tests for Two or More Races
+CDW00AR0200018D,Numeric,8,Campus 2018 Domain 2A: Number of Reading Tests for White
+CDB00AM0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Mathematics for African American
+CDA00AM0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Mathematics for All Students
+CDI00AM0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Mathematics for American Indian
+CD300AM0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Mathematics for Asian
+CNC00AM0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Mathematics for Continuously Enrolled
+CD000AM0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Mathematics for Current+Monitored ELL
+CDE00AM0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Mathematics for Econ Disadv
+CNS00AM0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Mathematics for Former Special Ed
+CDH00AM0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Mathematics for Hispanic
+CNM00AM0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Mathematics for Mobile (Non-Continuously Enrolled)
+CD400AM0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Mathematics for Pacific Islander
+CDS00AM0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Mathematics for Special Ed
+CD200AM0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Mathematics for Two or More Races
+CDW00AM0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Mathematics for White
+CDB00AR0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Reading for African American
+CDA00AR0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Reading for All Students
+CDI00AR0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Reading for American Indian
+CD300AR0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Reading for Asian
+CNC00AR0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Reading for Continuously Enrolled
+CD000AR0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Reading for Current+Monitored ELL
+CDE00AR0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Reading for Econ Disadv
+CNS00AR0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Reading for Former Special Ed
+CDH00AR0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Reading for Hispanic
+CNM00AR0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Reading for Mobile (Non-Continuously Enrolled)
+CD400AR0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Reading for Pacific Islander
+CDS00AR0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Reading for Special Ed
+CD200AR0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Reading for Two or More Races
+CDW00AR0200018R,Numeric,8,Campus 2018 Domain 2A: Rate of Reading for White
+CDATC18N,Numeric,8,"Campus 2018 Domain 3 Target Assistance: # Met, ALL student"
+CDBTC18N,Numeric,8,"Campus 2018 Domain 3 Target Assistance: # Met, African American"
+CDITC18N,Numeric,8,"Campus 2018 Domain 3 Target Assistance: # Met, American Indian"
+CD3TC18N,Numeric,8,"Campus 2018 Domain 3 Target Assistance: # Met, Asian"
+CDETC18N,Numeric,8,"Campus 2018 Domain 3 Target Assistance: # Met, Econ Disadv"
+CD0TC18N,Numeric,8,"Campus 2018 Domain 3 Target Assistance: # Met, Ell Current"
+CDHTC18N,Numeric,8,"Campus 2018 Domain 3 Target Assistance: # Met, Hispanic"
+CD4TC18N,Numeric,8,"Campus 2018 Domain 3 Target Assistance: # Met, Pacific Islander"
+CDSTC18N,Numeric,8,"Campus 2018 Domain 3 Target Assistance: # Met, Special Ed"
+CD2TC18N,Numeric,8,"Campus 2018 Domain 3 Target Assistance: # Met, Two or More Races"
+CDWTC18N,Numeric,8,"Campus 2018 Domain 3 Target Assistance: # Met, White"
+CDATC18R,Numeric,8,"Campus 2018 Domain 3 Target Assistance: % of Eligible Measures Met, ALL student"
+CDBTC18R,Numeric,8,"Campus 2018 Domain 3 Target Assistance: % of Eligible Measures Met, African American"
+CDITC18R,Numeric,8,"Campus 2018 Domain 3 Target Assistance: % of Eligible Measures Met, American Indian"
+CD3TC18R,Numeric,8,"Campus 2018 Domain 3 Target Assistance: % of Eligible Measures Met, Asian"
+CDETC18R,Numeric,8,"Campus 2018 Domain 3 Target Assistance: % of Eligible Measures Met, Econ Disadv"
+CD0TC18R,Numeric,8,"Campus 2018 Domain 3 Target Assistance: % of Eligible Measures Met, Ell Current"
+CDHTC18R,Numeric,8,"Campus 2018 Domain 3 Target Assistance: % of Eligible Measures Met, Hispanic"
+CD4TC18R,Numeric,8,"Campus 2018 Domain 3 Target Assistance: % of Eligible Measures Met, Pacific Islander"
+CDSTC18R,Numeric,8,"Campus 2018 Domain 3 Target Assistance: % of Eligible Measures Met, Special Ed"
+CD2TC18R,Numeric,8,"Campus 2018 Domain 3 Target Assistance: % of Eligible Measures Met, Two or More Races"
+CDWTC18R,Numeric,8,"Campus 2018 Domain 3 Target Assistance: % of Eligible Measures Met, White"
+CDATC18D,Numeric,8,"Campus 2018 Domain 3 Target Assistance: Total # of Eligible Measures, ALL student"
+CDBTC18D,Numeric,8,"Campus 2018 Domain 3 Target Assistance: Total # of Eligible Measures, African American"
+CDITC18D,Numeric,8,"Campus 2018 Domain 3 Target Assistance: Total # of Eligible Measures, American Indian"
+CD3TC18D,Numeric,8,"Campus 2018 Domain 3 Target Assistance: Total # of Eligible Measures, Asian"
+CDETC18D,Numeric,8,"Campus 2018 Domain 3 Target Assistance: Total # of Eligible Measures, Econ Disadv"
+CD0TC18D,Numeric,8,"Campus 2018 Domain 3 Target Assistance: Total # of Eligible Measures, Ell Current"
+CDHTC18D,Numeric,8,"Campus 2018 Domain 3 Target Assistance: Total # of Eligible Measures, Hispanic"
+CD4TC18D,Numeric,8,"Campus 2018 Domain 3 Target Assistance: Total # of Eligible Measures, Pacific Islander"
+CDSTC18D,Numeric,8,"Campus 2018 Domain 3 Target Assistance: Total # of Eligible Measures, Special Ed"
+CD2TC18D,Numeric,8,"Campus 2018 Domain 3 Target Assistance: Total # of Eligible Measures, Two or More Races"
+CDWTC18D,Numeric,8,"Campus 2018 Domain 3 Target Assistance: Total # of Eligible Measures, White"
+CDA00AM03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - MATH, ALL student"
+CDB00AM03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - MATH, African American"
+CDI00AM03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - MATH, American Indian"
+CD300AM03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - MATH, Asian"
+CNC00AM03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - MATH, Continuously enrolled"
+CD000AM03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - MATH, ELL Current & Monitored"
+CDE00AM03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - MATH, Econ Disadv"
+CDH00AM03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - MATH, Hispanic"
+CNM00AM03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - MATH, Non-Continuously enrolled"
+CD400AM03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - MATH, Pacific Islander"
+CDS00AM03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - MATH, Special Ed"
+CNS00AM03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - MATH, Special Ed Former"
+CD200AM03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - MATH, Two or More Races"
+CDW00AM03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - MATH, White"
+CDA00AR03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - READING, ALL student"
+CDB00AR03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - READING, African American"
+CDI00AR03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - READING, American Indian"
+CD300AR03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - READING, Asian"
+CNC00AR03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - READING, Continuously enrolled"
+CD000AR03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - READING, ELL Current & Monitored"
+CDE00AR03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - READING, Econ Disadv"
+CDH00AR03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - READING, Hispanic"
+CNM00AR03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - READING, Non-Continuously enrolled"
+CD400AR03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - READING, Pacific Islander"
+CDS00AR03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - READING, Special Ed"
+CNS00AR03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - READING, Special Ed Former"
+CD200AR03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - READING, Two or More Races"
+CDW00AR03218D,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Denominator - READING, White"
+CDA00AM03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - MATH, ALL student"
+CDB00AM03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - MATH, African American"
+CDI00AM03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - MATH, American Indian"
+CD300AM03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - MATH, Asian"
+CNC00AM03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - MATH, Continuously enrolled"
+CD000AM03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - MATH, ELL Current & Monitored"
+CDE00AM03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - MATH, Econ Disadv"
+CDH00AM03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - MATH, Hispanic"
+CNM00AM03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - MATH, Non-Continuously enrolled"
+CD400AM03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - MATH, Pacific Islander"
+CDS00AM03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - MATH, Special Ed"
+CNS00AM03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - MATH, Special Ed Former"
+CD200AM03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - MATH, Two or More Races"
+CDW00AM03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - MATH, White"
+CDA00AR03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - READING, ALL student"
+CDB00AR03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - READING, African American"
+CDI00AR03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - READING, American Indian"
+CD300AR03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - READING, Asian"
+CNC00AR03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - READING, Continuously enrolled"
+CD000AR03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - READING, ELL Current & Monitored"
+CDE00AR03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - READING, Econ Disadv"
+CDH00AR03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - READING, Hispanic"
+CNM00AR03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - READING, Non-Continuously enrolled"
+CD400AR03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - READING, Pacific Islander"
+CDS00AR03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - READING, Special Ed"
+CNS00AR03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - READING, Special Ed Former"
+CD200AR03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - READING, Two or More Races"
+CDW00AR03218N,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Numerator - READING, White"
+CDA00AM03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - MATH, ALL student"
+CDB00AM03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - MATH, African American"
+CDI00AM03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - MATH, American Indian"
+CD300AM03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - MATH, Asian"
+CNC00AM03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - MATH, Continuously enrolled"
+CD000AM03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - MATH, ELL Current & Monitored"
+CDE00AM03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - MATH, Econ Disadv"
+CDH00AM03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - MATH, Hispanic"
+CNM00AM03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - MATH, Non-Continuously enrolled"
+CD400AM03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - MATH, Pacific Islander"
+CDS00AM03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - MATH, Special Ed"
+CNS00AM03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - MATH, Special Ed Former"
+CD200AM03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - MATH, Two or More Races"
+CDW00AM03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - MATH, White"
+CDA00AR03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - READING, ALL student"
+CDB00AR03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - READING, African American"
+CDI00AR03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - READING, American Indian"
+CD300AR03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - READING, Asian"
+CNC00AR03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - READING, Continuously enrolled"
+CD000AR03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - READING, ELL Current & Monitored"
+CDE00AR03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - READING, Econ Disadv"
+CDH00AR03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - READING, Hispanic"
+CNM00AR03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - READING, Non-Continuously enrolled"
+CD400AR03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - READING, Pacific Islander"
+CDS00AR03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - READING, Special Ed"
+CNS00AR03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - READING, Special Ed Former"
+CD200AR03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - READING, Two or More Races"
+CDW00AR03218R,Numeric,8,"Campus 2018 Domain 3: Academic Achievement Rate - READING, White"
+CDLELP17D,Numeric,8,Campus English Language Proficiency 2017:Denominator
+CDLELP17N,Numeric,8,Campus English Language Proficiency 2017:Numerator
+CDLELP17R,Numeric,8,Campus English Language Proficiency 2017:Rate
